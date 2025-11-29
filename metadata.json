@@ -1,0 +1,7 @@
+{
+  "name": "Alaska AI",
+  "description": "مساعدك الذكي الشخصي - ألاسكا. تطبيق محادثة متطور باللغة العربية.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
